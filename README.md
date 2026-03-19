@@ -1,26 +1,28 @@
 # PastPresent
-# Calculadora de Idade com Curiosidades Históricas
+Age Calculator with Historical Curiosities
 
-Um aplicativo desktop desenvolvido em Java (Swing) que vai além de um simples cálculo matemático. O programa calcula a idade do usuário e, de forma dinâmica, apresenta um fato histórico marcante e a era em que ele nasceu, utilizando uma interface visual personalizada.
+A desktop application developed in Java (Swing) that goes beyond a simple mathematical calculation. The program calculates the user's age and dynamically presents a remarkable historical fact and the era in which they were born, using a customized visual interface.
 
-# Funcionalidades
-Cálculo de Idade Real:
+# Features
 
-Obtém o ano atual do sistema automaticamente para garantir precisão.
-Linha do Tempo Dinâmica: Exibe eventos históricos específicos (como a chegada do homem à Lua ou a Independência do Brasil) baseados no ano inserido.
-Classificação de Eras: Identifica se o usuário nasceu na Era da Informação, Era Industrial, Renascença, entre outras.
-Interface Customizada: Background temático e sistema de balão de fala (estilo HQ) para exibição das curiosidades.
-Input Inteligente: Uso de JSpinner com formatação customizada para evitar separadores de milhar em anos.
+Real Age Calculation:
 
-# 🛠️ Tecnologias Utilizadas
+Automatically retrieves the current system year to ensure accuracy.
+Dynamic Timeline: Displays specific historical events (such as the Moon Landing or the Independence of Brazil) based on the entered year.
+Era Classification: Identifies whether the user was born in the Information Age, Industrial Era, Renaissance, among others.
+Custom Interface: Thematic background and speech bubble system (comic-style) for displaying curiosities.
+Smart Input: Use of JSpinner with custom formatting to avoid thousand separators in years.
 
-Linguagem: Java
-Biblioteca Gráfica: Swing (JFrame)
+# Technologies Used
+
+Language: Java
+Graphical Library: Swing (JFrame)
 IDE: NetBeans
-Design: Assets criados no Canva e integrados via camadas no Absolute Layout.
-Formatação: Uso de tags HTML/CSS inline para manipulação de texto em componentes Java.
+Design: Assets created in Canva and integrated using layers in Absolute Layout.
+Formatting: Use of inline HTML/CSS tags to manipulate text in Java components.
 
-# Como Executar ?
-Certifique-se de ter o JRE (Java Runtime Environment) instalado.
-Baixe o arquivo CalculadoraIdade.jar na pasta /dist.
-Dê dois cliques no arquivo ou execute via terminal:
+# How to Run ?
+
+Make sure you have the JRE (Java Runtime Environment) installed.
+Download the file CalculadoraIdade.jar in the /dist folder.
+Double-click the file or run via terminal:
