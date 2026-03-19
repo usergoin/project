@@ -1,9 +1,9 @@
 # PastPresent
-# 🕰️ Calculadora de Idade com Curiosidades Históricas
+# Calculadora de Idade com Curiosidades Históricas
 
 Um aplicativo desktop desenvolvido em Java (Swing) que vai além de um simples cálculo matemático. O programa calcula a idade do usuário e, de forma dinâmica, apresenta um fato histórico marcante e a era em que ele nasceu, utilizando uma interface visual personalizada.
 
-# 🚀 Funcionalidades
+# Funcionalidades
 Cálculo de Idade Real:
 
 Obtém o ano atual do sistema automaticamente para garantir precisão.
@@ -20,7 +20,7 @@ IDE: NetBeans
 Design: Assets criados no Canva e integrados via camadas no Absolute Layout.
 Formatação: Uso de tags HTML/CSS inline para manipulação de texto em componentes Java.
 
-# 📦 Como Executar ?
+# Como Executar ?
 Certifique-se de ter o JRE (Java Runtime Environment) instalado.
 Baixe o arquivo CalculadoraIdade.jar na pasta /dist.
 Dê dois cliques no arquivo ou execute via terminal:
